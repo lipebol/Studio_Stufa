@@ -24,7 +24,7 @@
 </p>
 
 <p align="center">
-<img alt="Clone_Instagram" src="https://res.cloudinary.com/dfph6kr4e/image/upload/v1644355216/Studio_Stufa_q9ikb5.gif">
+<img alt="Studio_Stufa" src="https://res.cloudinary.com/dfph6kr4e/image/upload/v1644355216/Studio_Stufa_q9ikb5.gif">
   &nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
